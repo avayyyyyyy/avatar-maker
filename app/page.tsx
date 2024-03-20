@@ -48,7 +48,7 @@ export default function Home() {
               <Linkedin />
             </Link>
           </div>
-          <div className="flex flex-wrap gap-3">
+          <div className="flex justify-center flex-wrap gap-3">
             <Image
               alt="Avatar"
               className="shadow-md object-cover overflow-hidden rounded-xl"
