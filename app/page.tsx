@@ -52,16 +52,16 @@ export default function Home() {
             <Image
               alt="Avatar"
               className="shadow-md object-cover overflow-hidden rounded-xl"
-              height="338"
+              height="300"
               src="https://slnt.com/cdn/shop/articles/Lensa_AI_Avatar.png?v=1671230991"
-              width="600"
+              width="500"
             />
             <Image
               alt="Avatar"
               src="https://techcrunch.com/wp-content/uploads/2022/12/lensa-ai-magic-avatar.jpg"
               className="shadow-md object-cover overflow-hidden rounded-xl"
-              height="338"
-              width="600"
+              height="300"
+              width="500"
             />
           </div>
         </div>
